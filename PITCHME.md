@@ -31,7 +31,7 @@ paginate: true
 </div>
 <div>
 
-![](imgs/d_etteiu_icon.png)
+![](assets/d_etteiu_icon.png)
 
 </div>
 
@@ -98,7 +98,7 @@ _class: no-header no-footer
 
 著作権的にアレなので画像削除済み(サークル内限定で公開)
 
-<!-- ![bg](./imgs/3D_is_nani.png) -->
+<!-- ![bg](./assets/3D_is_nani.png) -->
 
 <!-- まず左上、これは現在放送されている『トロピカル～ジュ！プリキュア 』のエンディング映像です。プリキュアでは2009年に放送された『フレッシュプリキュア』の時代からエンディングに3DCGを利用したダンス映像を使用していて、僕が3DCGに興味を持つきっかけになった作品でもあります。 -->
 
@@ -242,7 +242,7 @@ _class: no-header no-footer
 </div>
 </div>
 
-![](imgs/modeling/model_sample.png)
+![](assets/modeling/model_sample.png)
 
 </div>
 
@@ -275,11 +275,11 @@ figcaption {
 </div>
 <div class="split-v">
 <figure>
-<img src="imgs/modeling/polygonmesh_sample.png" class="left">
+<img src="assets/modeling/polygonmesh_sample.png" class="left">
 <figcaption>ポリゴンメッシュ</figcaption>
 </figure>
 <figure>
-<img src="imgs/modeling/material_sample.png" class="right">
+<img src="assets/modeling/material_sample.png" class="right">
 <figcaption>マテリアル</figcaption>
 </figure>
 </div>
@@ -329,15 +329,15 @@ figcaption {
 <div class="right">
 <div class="polygon">
 <div class="title">頂点</div>
-<img src="./imgs/modeling/polygonmesh_vertex.png">
+<img src="./assets/modeling/polygonmesh_vertex.png">
 </div>
 <div class="polygon">
 <div class="title">辺</div>
-<img src="./imgs/modeling/polygonmesh_edge.png">
+<img src="./assets/modeling/polygonmesh_edge.png">
 </div>
 <div class="polygon">
 <div class="title">面</div>
-<img src="./imgs/modeling/polygonmesh_face.png">
+<img src="./assets/modeling/polygonmesh_face.png">
 </div>
 
 </div>
@@ -381,7 +381,7 @@ A. モデリング時は四角形で扱う(操作しやすいので)。
 </div>
 <div>
 
-![](imgs/modeling/polygonmesh_sample.png)
+![](assets/modeling/polygonmesh_sample.png)
 
 </div>
 </div>
@@ -417,7 +417,7 @@ A. モデリング時は四角形で扱う(操作しやすいので)。
 </div>
 <div>
 
-![](imgs/modeling/normal.png)
+![](assets/modeling/normal.png)
 
 </div>
 
@@ -510,7 +510,7 @@ A. モデリング時は四角形で扱う(操作しやすいので)。
     などなど...
   </div>
   <div class="material-img">
-    <img src="imgs/modeling/material_3.png">
+    <img src="assets/modeling/material_3.png">
   </div>
 </div>
 <div class="material">
@@ -521,7 +521,7 @@ A. モデリング時は四角形で扱う(操作しやすいので)。
     などなど...
   </div>
   <div class="material-img">
-    <img src="imgs/modeling/material_2.png">
+    <img src="assets/modeling/material_2.png">
   </div>
 </div>
 <div class="material">
@@ -532,7 +532,7 @@ A. モデリング時は四角形で扱う(操作しやすいので)。
     などなど...
   </div>
   <div class="material-img">
-    <img src="imgs/modeling/material_1.png">
+    <img src="assets/modeling/material_1.png">
   </div>
 </div>
 </div>
@@ -602,15 +602,15 @@ figure {
 </div>
 <div class="split-v">
 <figure>
-<img src="imgs/modeling/texture_wire.png" class="left">
+<img src="assets/modeling/texture_wire.png" class="left">
 <figcaption>元のポリゴンメッシュ</figcaption>
 </figure>
 <figure>
-<img src="imgs/modeling/texture_none.png" class="center">
+<img src="assets/modeling/texture_none.png" class="center">
 <figcaption>全体に一様な設定をした例</figcaption>
 </figure>
 <figure>
-<img src="imgs/modeling/texture_full.png" class="right">
+<img src="assets/modeling/texture_full.png" class="right">
 <figcaption>細かく色や金属感を変えた例</figcaption>
 </figure>
 </div>
@@ -635,15 +635,15 @@ img {
 </div>
 <div class="split-v">
 
-![](imgs/modeling/texture_color.png)
+![](assets/modeling/texture_color.png)
 
-![](imgs/modeling/texture_metalness.png)
+![](assets/modeling/texture_metalness.png)
 
-![](imgs/modeling/texture_roughness.png)
+![](assets/modeling/texture_roughness.png)
 
-![](imgs/modeling/texture_emission.png)
+![](assets/modeling/texture_emission.png)
 
-![](imgs/modeling/texture_normal.png)
+![](assets/modeling/texture_normal.png)
 
 </div>
 
@@ -678,7 +678,7 @@ UV 座標を設定することを
 </div>
 <div>
 
-![](imgs/modeling/texture_UVmapping.png)
+![](assets/modeling/texture_UVmapping.png)
 
 </div>
 </div>
@@ -712,19 +712,19 @@ figcaption {
 
 <div class="split-v">
   <figure>
-    <img src="imgs/modeling/texture_wire.png">
+    <img src="assets/modeling/texture_wire.png">
     <figcaption>元のメッシュ</figcaption>
   </figure>
   <figure>
-    <img src="imgs/modeling/texture_UV.png">
+    <img src="assets/modeling/texture_UV.png">
     <figcaption>UV展開した結果</figcaption>
   </figure>
   <figure>
-    <img src="imgs/modeling/texture_roughness.png">
+    <img src="assets/modeling/texture_roughness.png">
     <figcaption>貼り付けるテクスチャ<br>各ピクセルに0~1の値を持っている</figcaption>
   </figure>
   <figure>
-    <img src="imgs/modeling/texture_roughness_only.png">
+    <img src="assets/modeling/texture_roughness_only.png">
     <figcaption>"粗さ"に左のテクスチャを設定した結果</figcaption>
   </figure>
 </div>
@@ -795,7 +795,7 @@ figcaption {
   <div class="material">
     <div class="title">顔のマテリアル</div>
     <div class="imgs">
-      <img src="imgs/modeling/face.png">
+      <img src="assets/modeling/face.png">
       <code>face.png</code>
     </div>
     <div class="settings">
@@ -807,7 +807,7 @@ figcaption {
   <div class="material">
     <div class="title">髪のマテリアル</div>
     <div class="imgs">
-      <img src="imgs/modeling/hair.png">
+      <img src="assets/modeling/hair.png">
       <code>hair.png</code>
     </div>
     <div class="settings">
@@ -819,7 +819,7 @@ figcaption {
   <div class="material">
     <div class="title">服のマテリアル</div>
     <div class="imgs">
-      <img src="imgs/modeling/suit.png">
+      <img src="assets/modeling/suit.png">
       <code>suit.png</code>
     </div>
     <div class="settings">
@@ -888,7 +888,7 @@ figcaption {
 </div>
 <div>
 
-![](./imgs/animation/frame.png)
+![](./assets/animation/frame.png)
 
 </div>
 
@@ -907,7 +907,7 @@ figcaption {
 2 ～ 9 フレーム目でのボールの位置はエディタ/ツールがイイ感じに**補間**してくれる。
 この仕組みが**キー**(Key(大事な))**フレーム**(だけ指定する)アニメーション。
 
-![](./imgs/animation/keyframe.png)
+![](./assets/animation/keyframe.png)
 
 ---
 
@@ -938,18 +938,18 @@ img {
 <div class="split-v">
   <div class="animation">
     <span class="title">滑らかな入り抜き</span>
-    <img src="imgs/animation/animation_easeinout_graph.png">
-    <img src="imgs/animation/animation_easeinout.gif">
+    <img src="assets/animation/animation_easeinout_graph.png">
+    <img src="assets/animation/animation_easeinout.gif">
   </div>
   <div class="animation">
     <span class="title">直線的な移動</span>
-    <img src="imgs/animation/animation_liner_graph.png">
-    <img src="imgs/animation/animation_liner.gif">
+    <img src="assets/animation/animation_liner_graph.png">
+    <img src="assets/animation/animation_liner.gif">
   </div>
   <div class="animation">
     <span class="title">ばねみたいな移動</span>
-    <img src="imgs/animation/animation_spring_graph.png">
-    <img src="imgs/animation/animation_spring.gif">
+    <img src="assets/animation/animation_spring_graph.png">
+    <img src="assets/animation/animation_spring.gif">
   </div>
 </div>
 
@@ -971,11 +971,11 @@ img {
 
 <div class="split-v">
 
-![](imgs/animation/animation_sample_01.png)
+![](assets/animation/animation_sample_01.png)
 
-![](imgs/animation/animation_sample_02.png)
+![](assets/animation/animation_sample_02.png)
 
-![](imgs/animation/animation_sample_03.png)
+![](assets/animation/animation_sample_03.png)
 
 </div>
 
@@ -993,7 +993,7 @@ img {
 
 スケルトンは**ボーン**と**ジョイント**で構成された**骨格**のこと。このスケルトンとポリゴンメッシュを**連動させる**(**スキニング**する)ことで、ポリゴンメッシュを変形させることができる。
 
-![](./imgs/animation/skelton.png)
+![](./assets/animation/skelton.png)
 
 ---
 
@@ -1004,7 +1004,7 @@ img {
 **スキンウェイト**は どの頂点が どのボーンに どれぐらいの割合で 追従するか を決める**重み**
 
 各頂点のスキンウェイトを調整することで、変形の仕方を調整する
-![](./imgs/animation/skinweight.png)
+![](./assets/animation/skinweight.png)
 
 あとは先ほどのキーフレームアニメーションを用いて、"1 フレーム目では腕のボーンをこの角度に..."など指定するとポリゴンメッシュの変形をアニメーションできる
 
@@ -1029,11 +1029,11 @@ img {
 
 <div class="split-v">
 
-![](imgs/animation/hierarchial_01.png)
+![](assets/animation/hierarchial_01.png)
 
 →
 
-![](imgs/animation/hierarchial_02.png)
+![](assets/animation/hierarchial_02.png)
 
 <div>
 
@@ -1060,7 +1060,7 @@ img {
 スケルトンは基本的にボーンを回転させることで変形を行うが、回転だけでは難しい表現も多々ある。
 そこで**FK**と**IK**という 2 種の制御方法を状況に応じて切り替えて扱う。
 
-![](imgs/animation/FK_IK.png)
+![](assets/animation/FK_IK.png)
 
 <!-- たとえば「コップを掴む」というアニメーションをさせたいとき、まずてのひらをコップに近づける必要がある。これを表現するのに FK は不向き。なので IK を使う。次に「掴む」動作で各指を曲げる必要があるが、今度は角度で指定したほうが作業しやすい。なので FK を使う。 -->
 
@@ -1085,17 +1085,17 @@ div.split-v {
 
 <div class="split-v">
 
-![](imgs/animation/facial_00.png)
+![](assets/animation/facial_00.png)
 
-![](imgs/animation/facial_01.png)
+![](assets/animation/facial_01.png)
 
-![](imgs/animation/facial_02.png)
+![](assets/animation/facial_02.png)
 
-![](imgs/animation/facial_03.png)
+![](assets/animation/facial_03.png)
 
-![](imgs/animation/facial_04.png)
+![](assets/animation/facial_04.png)
 
-![](imgs/animation/facial_05.png)
+![](assets/animation/facial_05.png)
 
 </div>
 
@@ -1123,7 +1123,7 @@ div.split-v {
 </div>
 <div>
 
-![](imgs/animation/controller.png)
+![](assets/animation/controller.png)
 
 </div>
 </div>
@@ -1189,7 +1189,7 @@ CG を**事前に**レンダリングすることを**プリレンダリング**
 </div>
 <div>
 
-![](imgs/rendering/tetra_omote.png)
+![](assets/rendering/tetra_omote.png)
 
 </div>
 </div>
@@ -1218,7 +1218,7 @@ CG を**事前に**レンダリングすることを**プリレンダリング**
 </div>
 <div>
 
-![](imgs/rendering/real_time_rendering.png)
+![](assets/rendering/real_time_rendering.png)
 
 <small>
 190 人ものアイドルが登場・それぞれが数種類の衣装を所持・最大 15 人のアイドルでライブを行うデレステ
@@ -1695,7 +1695,7 @@ img {
 2 年前に作った鴨パーカー
 約 1000△
 
-![](imgs/misc/low_poly.gif)
+![](assets/misc/low_poly.gif)
 
 </div>
 </div>
@@ -1730,7 +1730,7 @@ blender にも freestyle と呼ばれるライン描画機能があります。�
 </div>
 <div>
 
-![](./imgs/rendering/tetra_omote.png)
+![](./assets/rendering/tetra_omote.png)
 
 </div>
 
