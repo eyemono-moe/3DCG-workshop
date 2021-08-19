@@ -1,7 +1,7 @@
 {
-  "name": "marp-cli-example",
-  "version": "0.0.0",
-  "author": "Yuki Hattori <yukihattori1116@gmail.com>",
+  "name": "3dcg-workshop",
+  "version": "1.0.0",
+  "author": "Eyemono Rin",
   "license": "WTFPL",
   "private": true,
   "scripts": {
