@@ -7,7 +7,7 @@ title: "3DCG基礎概念講習会"
 description: "東京工業大学デジタル創作同好会traP内で行った3DCG基礎概念講習会の資料です"
 author: "d_etteiu8383"
 url: "https://3dcg-workshop.eyemono.moe"
-image: "https://3dcg-workshop.eyemono.moe/og-image.png"
+image: "https://3dcg-workshop.eyemono.moe/assets/og-image.png"
 ---
 
 # 3DCG 基礎概念講習会 応用編
