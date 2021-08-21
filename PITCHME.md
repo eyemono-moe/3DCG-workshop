@@ -101,7 +101,9 @@ image: "https://3dcg-workshop.eyemono.moe/assets/og-image.png"
 _class: no-header no-footer
 -->
 
-著作権的にアレなので画像削除済み(サークル内限定で公開)
+\<!-- ここにプリキュア、プリパラ、ウマ娘、デレステ等の画像があった -->
+\<!-- いろんなものに3DCGが使われていますね～感を出すスライド -->
+\<!-- 著作権的にアレなので画像削除済み(サークル内限定で公開) -->
 
 <!-- ![bg](./assets/3D_is_nani.png) -->
 
