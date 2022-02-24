@@ -85,7 +85,7 @@ image: "https://3dcg-workshop.eyemono.moe/assets/og-image.png"
 3DCG とは
 
 > コンピュータの演算によって 3 次元空間内の仮想的な立体物を 2 次元である平面上の情報に変換することで奥行き感（立体感）のある画像を作る手法
-> <small>(引用 https://ja.wikipedia.org/wiki/3%E6%AC%A1%E5%85%83%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9)</small>
+> <small>(引用 <https://ja.wikipedia.org/wiki/3%E6%AC%A1%E5%85%83%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9>)</small>
 
 である。
 
@@ -779,7 +779,7 @@ figcaption {
 }
 .imgs img {
   width: 150px;
-} 
+}
 .title {
   position: absolute;
   top: 0;
@@ -1319,10 +1319,10 @@ CG(computer graphics)なので**パソコン**で作る。:computer:
 <style scoped>
 .split-v>* {
   width: 100%;
-} 
+}
 .split-v {
   align-items: flex-start;
-} 
+}
 </style>
 
 <!-- header: "第三章 3DCGは何で作るの? > 統合型ソフトの例" -->
@@ -1381,10 +1381,10 @@ Maya：プリキュア、ウマ娘のモデル作成
 <style scoped>
 .split-v>* {
   width: 100%;
-} 
+}
 .split-v {
   align-items: flex-start;
-} 
+}
 </style>
 
 ## 統合型ソフトの例
@@ -1421,10 +1421,10 @@ Maya：プリキュア、ウマ娘のモデル作成
 <style scoped>
 .split-v>* {
   width: 100%;
-} 
+}
 .split-v {
   align-items: flex-start;
-} 
+}
 </style>
 
 <!-- header: "第三章 3DCGは何で作るの? > 特化型ソフトの例" -->
@@ -1477,10 +1477,10 @@ Maya：プリキュア、ウマ娘のモデル作成
 <style scoped>
 .split-v>* {
   width: 100%;
-} 
+}
 .split-v {
   align-items: flex-start;
-} 
+}
 </style>
 
 ## 特化型ソフトの例(テクスチャ作成)
@@ -1518,10 +1518,10 @@ Maya：プリキュア、ウマ娘のモデル作成
 <style scoped>
 .split-v>* {
   width: 100%;
-} 
+}
 .split-v {
   align-items: flex-start;
-} 
+}
 </style>
 
 ## 特化型ソフトの例
@@ -1539,10 +1539,10 @@ Maya：プリキュア、ウマ娘のモデル作成
 <style scoped>
 .split-v>* {
   width: 100%;
-} 
+}
 .split-v {
   align-items: flex-start;
-} 
+}
 </style>
 
 ## 特化型ソフトの例(ゲームエンジン)
